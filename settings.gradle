@@ -1,2 +1,3 @@
 rootProject.name = 'java-string-calculator'
+include 'docs'
 
